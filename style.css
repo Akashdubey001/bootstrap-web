@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Garamond;
+}
+
+.logo-img {
+    width: 5rem;
+}
+
+.man-imag {
+    width: 80%;
+    height: auto;
+}
+
+.heading-decription {
+    color: #032539;
+    font-size: 2rem;
+    font-family: Garamond;
+    font-weight: bold;
+}
+
+.socail-icon {
+    font-size: 1em;
+    background-color: #032539;
+    color: #FA991C;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.summary {
+    color: #1C768F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name {
+    color: #FA991C;
+    font-weight: bold;
+}
+
+.HOME-container {
+    width: 100%;
+    height: auto;
+}
+
+.heading-about-me{
+    color: #032539;
+    font-size: 1.5rem;
+    font-family: Garamond;
+    background-color: #FA991C;
+    border-radius: 0px 20px 0px 20px;
+}
+
+.heading-about-me-smal{
+    color: #032539;
+    font-size: 1rem;
+    font-family: Garamond;
+    background-color: #FA991C;
+    border-radius: 0px 20px 0px 20px;
+}
